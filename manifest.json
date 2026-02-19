@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
   "bin_url": "https://github.com/infonuvrel-lamp/nuvrel-firmware/releases/download/v1.0.0/firmware.bin",
-  "size": 1559184,
-  "sha256": "4d52a59c54ecaba661d5fdcd7d8b7d671a188b97c74e7c3b22e0bb571f909a2e"
+  "size": 1559104,
+  "sha256": "e6267487c100e4f9b76ebe7ce5218a2cb85f2df0f887d9c5ae66455d70599054"
 }
